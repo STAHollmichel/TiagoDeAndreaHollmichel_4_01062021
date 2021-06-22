@@ -687,7 +687,6 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -762,7 +761,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #9d3811;
+    background-color: #c55429;
 }
 
 .tc-white {
@@ -770,7 +769,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #9d3811;
+    background: #c55429;
 }
 
 .btn-atomic-tangerine:hover {
@@ -787,7 +786,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #9d3811!important;
+    color: #c55429!important;
 }
 
 .ltc-atomic-tangerine:hover {
